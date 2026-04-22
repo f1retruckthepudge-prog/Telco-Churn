@@ -60,6 +60,25 @@
 - Средний доход: ~$92
 - Потери: **~$708K в год**
 
+- ## 💡 Churn Reduction Impact
+
+Формула:
+
+Saved Users = Users × (Churn Rate × Reduction)
+
+Revenue Saved = Saved Users × Avg Revenue × 12
+
+Расчёт:
+
+- Users = 1143  
+- Churn = 56%  
+- Reduction = 10%  
+
+Saved Users = 1143 × 0.056 ≈ 64  
+
+Revenue Saved = 64 × $92 × 12 ≈ $70K в год
+
+
 ---
 
 ## 🔍 Key Insights
