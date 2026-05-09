@@ -13,3 +13,7 @@
 ![Влияние сервисов](images/services_churn.png)
 ![Оплата и отток](images/payment_churn.png)
 ![Срок и чек](images/tenure_charges_boxplot.png)
+### Интерактивные графики
+- [Отток по контрактам](dashboard/contract_churn_interactive.html)
+- [Тепловая карта контракт×интернет](dashboard/contract_internet_heatmap_interactive.html)
+- [Срок жизни и платёж](dashboard/tenure_charges_scatter.html)
