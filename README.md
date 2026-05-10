@@ -17,3 +17,7 @@
 - [Отток по контрактам](https://htmlpreview.github.io/?https://raw.githubusercontent.com/f1retruckthepudge-prog/telco-churn-analysis/master/images/contract_churn_interactive.html)
 - [Тепловая карта (контракт × интернет)](https://htmlpreview.github.io/?https://raw.githubusercontent.com/f1retruckthepudge-prog/telco-churn-analysis/master/images/contract_internet_heatmap_interactive.html)
 - [Срок жизни и ежемесячный платёж](https://htmlpreview.github.io/?https://raw.githubusercontent.com/f1retruckthepudge-prog/telco-churn-analysis/master/images/tenure_charges_scatter.html)
+
+- ## Python (Streamlit) Interactive Dashboard
+[Смотреть код дашборда](churn_dashboard.py)  
+*Локальный запуск:* `streamlit run churn_dashboard.py`
